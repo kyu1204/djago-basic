@@ -1,0 +1,5 @@
+﻿venv
+blog/__pycache__
+blog/migrations
+basic/__pycache__
+.idea
